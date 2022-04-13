@@ -1,4 +1,4 @@
-# Soluciones Proyecto Euler
+# Soluciones a los problemas en Project Euler
 Este espacio está dedicado a almacenar mis propias soluciones a los problemas que pueden encontrarse en la página del proyecto [Project Euler](https://projecteuler.net/archives) .
 
 Todos los enunciados de los problemas aqui expuestos son una traducción de los problemas encontrados en la página oficial del proyecto antes citada y de ninguna forma me refiero a ellos como un trabajo original mio.
